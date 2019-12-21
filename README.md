@@ -4,3 +4,4 @@ Ploitechnika Gdańska
 Weekend
 Gwiazdka
 Sylwester
+Bye
